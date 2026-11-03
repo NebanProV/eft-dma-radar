@@ -1,0 +1,10 @@
+*.woff2 binary
+*.yml linguist-detectable=false
+
+package-lock.json linguist-generated   
+
+*.yaml linguist-detectable=false
+src/*.ts linguist-detectable
+public/index.html linguist-vendored
+public/**/*.html linguist-vendored
+*.json linguist-detectable=false
