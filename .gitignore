@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.cache/
+.next/
+coverage/
+*.log
+.pnpm-store/
+npm-debug.log*
+build/
